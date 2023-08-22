@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Stadium-Fc-Project/static/css/main.740d10e9.chunk.css",
+    "main.js": "/Stadium-Fc-Project/static/js/main.29fa7611.chunk.js",
+    "main.js.map": "/Stadium-Fc-Project/static/js/main.29fa7611.chunk.js.map",
+    "runtime-main.js": "/Stadium-Fc-Project/static/js/runtime-main.17a861e9.js",
+    "runtime-main.js.map": "/Stadium-Fc-Project/static/js/runtime-main.17a861e9.js.map",
+    "static/js/2.130e46e2.chunk.js": "/Stadium-Fc-Project/static/js/2.130e46e2.chunk.js",
+    "static/js/2.130e46e2.chunk.js.map": "/Stadium-Fc-Project/static/js/2.130e46e2.chunk.js.map",
+    "index.html": "/Stadium-Fc-Project/index.html",
+    "static/css/main.740d10e9.chunk.css.map": "/Stadium-Fc-Project/static/css/main.740d10e9.chunk.css.map",
+    "static/js/2.130e46e2.chunk.js.LICENSE.txt": "/Stadium-Fc-Project/static/js/2.130e46e2.chunk.js.LICENSE.txt",
+    "static/media/Bruyne.621713f2.png": "/Stadium-Fc-Project/static/media/Bruyne.621713f2.png",
+    "static/media/DeGea.02dac133.png": "/Stadium-Fc-Project/static/media/DeGea.02dac133.png",
+    "static/media/Messi.1119bef8.png": "/Stadium-Fc-Project/static/media/Messi.1119bef8.png",
+    "static/media/Neymar.83e74fef.png": "/Stadium-Fc-Project/static/media/Neymar.83e74fef.png",
+    "static/media/data.5ade70c2.csv": "/Stadium-Fc-Project/static/media/data.5ade70c2.csv",
+    "static/media/homepage.css": "/Stadium-Fc-Project/static/media/homeInfoBg.212dfa03.png",
+    "static/media/melbourne-modified.254e6204.png": "/Stadium-Fc-Project/static/media/melbourne-modified.254e6204.png",
+    "static/media/playerstats.css": "/Stadium-Fc-Project/static/media/playerInfoBg.43805557.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a861e9.js",
+    "static/js/2.130e46e2.chunk.js",
+    "static/css/main.740d10e9.chunk.css",
+    "static/js/main.29fa7611.chunk.js"
+  ]
+}
